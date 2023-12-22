@@ -20,7 +20,9 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
-    "tailwind-merge": "^2.1.0"
+    "tailwind-merge": "^2.1.0",
+    "tonweb": "^0.0.62",
+    "tonweb-mnemonic": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^20",
